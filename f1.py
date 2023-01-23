@@ -1,3 +1,3 @@
 # commit a
-#commit conflict
+#commit conflict branch 2
 #commit b
